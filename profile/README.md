@@ -1,6 +1,6 @@
 # Computación Móvil (con Android)
 
-Esta organización contiene el material usado en los cursos de construcción de Computación Móvil (con Android) de la Universidad Antonio Nariño.
+Esta organización contiene el material usado en los cursos de Computación Móvil (con Android) de la Universidad Antonio Nariño.
 
 ## Referencias
 
